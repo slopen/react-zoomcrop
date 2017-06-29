@@ -19,10 +19,10 @@
 
 
 ```
-const {x, y, width, height} = getValue ();
+const {x, y, width, height} = this.zoomcrop.getValue ();
 
-setValue ({x, y, width, height});
+this.zoomcrop.setValue ({x, y, width, height});
 
 ```
 
-[demo](https://rawgit.com/slopen/react-zoomcrop/master/index.html)
+[demo](https://rawgit.com/slopen/react-zoomcrop/master/build/index.html)
