@@ -25,4 +25,4 @@ this.zoomcrop.setValue ({x, y, width, height});
 
 ```
 
-[demo](https://rawgit.com/slopen/react-zoomcrop/master/build/index.html)
+[demo](https://rawgit.com/slopen/react-zoomcrop/master/example/index.html)
