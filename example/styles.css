@@ -1,0 +1,23 @@
+* {
+    box-sizing:border-box;
+}
+
+.box{
+    width:320px;
+    height:320px;
+    margin:20px auto 0;
+    opacity:0.3;
+}
+
+#zoomcrop{
+    background:#eee;
+}
+
+.element{
+    background: #111;
+}
+
+.zoomcrop-frame{
+    height:0;
+    padding-bottom:100%;
+}
